@@ -12,3 +12,4 @@ Datasets:
 
 * https://programminghistorian.org/en/lessons/visualizing-with-bokeh#the-wwii-thor-dataset
 
+TO DO: Sort out HTTPS. 
