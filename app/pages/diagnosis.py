@@ -1,8 +1,9 @@
 import pandas as pd
-import streamlit as st
 from bokeh.palettes import Spectral3
 from bokeh.plotting import figure
 from bokeh.models import ColumnDataSource
+import streamlit as st
+
 
 
 @st.cache_data

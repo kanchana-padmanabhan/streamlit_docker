@@ -1,8 +1,10 @@
 import pandas as pd
-import streamlit as st
+
 from bokeh.plotting import figure
 from bokeh.models import ColumnDataSource, Div
 from bokeh.models.tools import HoverTool
+import streamlit as st
+
 
 @st.cache_data
 def fetch_and_clean_data():
